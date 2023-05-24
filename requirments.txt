@@ -16,3 +16,4 @@ platformdirs==2.5.2
 requests==2.30.0
 urllib3==2.0.2
 Werkzeug==2.3.4
+moviepy==1.0.3
